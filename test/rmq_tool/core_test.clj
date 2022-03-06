@@ -1,6 +1,6 @@
 (ns rmq-tool.core-test
   (:require [clojure.test :refer :all]
-            [clojure-noob.core :refer :all]))
+            [rmq-tool.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
